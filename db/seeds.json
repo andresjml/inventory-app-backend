@@ -4,7 +4,7 @@
       "id": 1,
       "item_name": "Travel Adapter",
       "item_num":"275755",
-      "image": "https://www.pngmart.com/files/17/Travel-Adapter-Transparent-PNG.png",
+      "image": "https://bublup-media-production.s3.amazonaws.com/EqPU9cdhz3NIZKsocKWJ3Q/images/medium_007-im-a4603add-6c5f-41a9-9813-e0c530bc9443.png",
       "price": 8,
       "onhand":16
     },
@@ -12,7 +12,7 @@
       "id": 2,
       "item_name": "Security Camera",
       "item_num":"82501",
-      "image": "https://www.pngmart.com/files/6/Security-Camera-PNG-Photo.png",
+      "image": "https://bublup-media-production.s3.amazonaws.com/1uZbXvO_zwZ8R4TUVpf-5A/images/medium_007-im-ba8ff7e9-730a-4b63-871c-3610fe323cee.png",
       "price": 55,
       "onhand":5
     },
@@ -20,56 +20,56 @@
       "id": 3,
       "item_name": "LED Light Gaming Keyboard",
       "item_num":"269392",
-      "image": "https://www.pngmart.com/files/16/Light-Gaming-Keyboard-Transparent-Background.png",
+      "image": "https://bublup-media-production.s3.amazonaws.com/zaEFj7x6Rh8frE03kxd-uA/images/medium_007-im-ab39ea1a-df18-455c-b849-7f99bdded11f.png",
       "price": 63,
       "onhand":158
     },{
       "id": 4,
       "item_name": "Solar LED Bulb",
       "item_num":"86304",
-      "image": "https://www.pngmart.com/files/6/Solar-Lighting-PNG-Photo.png",
+      "image": "https://bublup-media-production.s3.amazonaws.com/soLEEVicTkxHMed0PzVYZA/images/medium_007-im-ce50f2cb-ff3c-4a4d-8700-3b71fe485070.png",
       "price": 8,
       "onhand":16
     },{
       "id": 5,
       "item_name": "Universal Travel Adapter",
       "item_num":"91113",
-      "image": "https://www.pngmart.com/files/7/Universal-Travel-Adapter-PNG-Transparent-Image.png",
+      "image": "https://bublup-media-production.s3.amazonaws.com/HKO5hOA3mneJ3ZSXmR4WGw/images/medium_007-im-16011e96-1d99-472c-8e1f-af6fe273156d.png",
       "price": 8,
       "onhand":16
     },{
       "id": 6,
       "item_name": "Air Purifier",
       "item_num":"275559",
-      "image": "https://www.pngmart.com/files/17/Air-Purifier-PNG-Image.png",
+      "image": "https://bublup-media-production.s3.amazonaws.com/Tm3wYoK09biwygEIpCNREA/images/medium_007-im-4f0b8105-dc05-455a-a99d-96479591591f.png",
       "price": 8,
       "onhand":16
     },{
       "id": 7,
       "item_name": "Computer Speakers",
       "item_num":"82354",
-      "image": "https://www.pngmart.com/files/6/Computer-Speakers-PNG-Transparent-Image.png",
+      "image": "https://bublup-media-production.s3.amazonaws.com/yKd-bsiDRyybNXZlAlF01Q/images/medium_007-im-fa13e040-98f1-4e27-90f9-3a522838c45a.png",
       "price": 8,
       "onhand":16
     },{
       "id": 8,
       "item_name": "Hair Dryer",
       "item_num":"92511",
-      "image": "https://www.pngmart.com/files/7/Hair-Dryer-PNG-Photos.png",
+      "image": "https://bublup-media-production.s3.amazonaws.com/7OITLrJRD_zzZYBICzvhhg/images/medium_007-im-5053c13b-a241-40e2-99af-d679f3fe760c.png",
       "price": 8,
       "onhand":16
     },{
       "id": 9,
       "item_name": "Computer Monitor",
       "item_num":"79932",
-      "image": "https://www.pngmart.com/files/6/Monitor-Background-PNG.png",
+      "image": "https://bublup-media-production.s3.amazonaws.com/NxsSurN98MsgAKJyQ9TgTA/images/medium_007-im-e3b8f33b-08cb-4107-9531-02c2f92242d9.png",
       "price": 8,
       "onhand":16
     },{
       "id": 10,
       "item_name": "Air Fryer",
       "item_num":"229112",
-      "image": "https://bublup-media-production.s3.amazonaws.com/4261b8cd-7ec4-4b72-bd62-287c831cc6b6/file_uploads/7f875ab2.png?response-content-disposition=inline%3B%20filename%3D%22Air-Fryer-PNG-HD.png%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6J6ZXRI3GJ2OJTXR%2F20210611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210611T215029Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=699046b11abd9b0eaeeb6dc6324c331bf26036ccda418cf07d9b61f5ae3e1710",
+      "image": "https://bublup-media-production.s3.amazonaws.com/_qNUPksiRWGtcc4H_tg0cg/images/medium_007-im-b5993ac4-ce54-4f7c-b2ef-b55b262a006c.png",
       "price": 8,
       "onhand":16
     }
