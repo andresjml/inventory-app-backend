@@ -69,7 +69,7 @@
       "id": 10,
       "item_name": "Air Fryer",
       "item_num":"229112",
-      "image": "https://github.com/andresjml/project_Images/blob/e7d8d3c3c92809649d62291e870b9f50eed7b1e6/Air-Fryer-PNG-HD.png",
+      "image": "https://bublup-media-production.s3.amazonaws.com/4261b8cd-7ec4-4b72-bd62-287c831cc6b6/file_uploads/7f875ab2.png?response-content-disposition=inline%3B%20filename%3D%22Air-Fryer-PNG-HD.png%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA6J6ZXRI3GJ2OJTXR%2F20210611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210611T215029Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=699046b11abd9b0eaeeb6dc6324c331bf26036ccda418cf07d9b61f5ae3e1710",
       "price": 8,
       "onhand":16
     }
