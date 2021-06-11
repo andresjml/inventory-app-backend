@@ -3,82 +3,75 @@
     {
       "id": 1,
       "item_name": "Travel Adapter",
-      "item_num": "275755",
-      "image": "http://www.pngmart.com/files/17/Travel-Adapter-Transparent-PNG.png",
-      "price": 64,
-      "onhand": 695
+      "item_num":"275755",
+      "image": "https://www.pngmart.com/files/17/Travel-Adapter-Transparent-PNG.png",
+      "price": 8,
+      "onhand":16
     },
     {
       "id": 2,
       "item_name": "Security Camera",
-      "item_num": "82501",
-      "image": "http://www.pngmart.com/files/6/Security-Camera-PNG-Photo.png",
+      "item_num":"82501",
+      "image": "https://www.pngmart.com/files/6/Security-Camera-PNG-Photo.png",
       "price": 55,
-      "onhand": 5
+      "onhand":5
     },
     {
       "id": 3,
       "item_name": "LED Light Gaming Keyboard",
-      "item_num": "269392",
-      "image": "http://www.pngmart.com/files/16/Light-Gaming-Keyboard-Transparent-Background.png",
+      "item_num":"269392",
+      "image": "https://www.pngmart.com/files/16/Light-Gaming-Keyboard-Transparent-Background.png",
       "price": 63,
-      "onhand": 158
-    },
-    {
+      "onhand":158
+    },{
       "id": 4,
       "item_name": "Solar LED Bulb",
-      "item_num": "86304",
-      "image": "http://www.pngmart.com/files/6/Solar-Lighting-PNG-Photo.png",
+      "item_num":"86304",
+      "image": "https://www.pngmart.com/files/6/Solar-Lighting-PNG-Photo.png",
       "price": 8,
-      "onhand": 16
-    },
-    {
+      "onhand":16
+    },{
       "id": 5,
       "item_name": "Universal Travel Adapter",
-      "item_num": "91113",
-      "image": "http://www.pngmart.com/files/7/Universal-Travel-Adapter-PNG-Transparent-Image.png",
+      "item_num":"91113",
+      "image": "https://www.pngmart.com/files/7/Universal-Travel-Adapter-PNG-Transparent-Image.png",
       "price": 8,
-      "onhand": 16
-    },
-    {
+      "onhand":16
+    },{
       "id": 6,
       "item_name": "Air Purifier",
-      "item_num": "275559",
-      "image": "http://www.pngmart.com/files/17/Air-Purifier-PNG-Image.png",
+      "item_num":"275559",
+      "image": "https://www.pngmart.com/files/17/Air-Purifier-PNG-Image.png",
       "price": 8,
-      "onhand": 16
-    },
-    {
+      "onhand":16
+    },{
       "id": 7,
       "item_name": "Computer Speakers",
-      "item_num": "82354",
-      "image": "http://www.pngmart.com/files/6/Computer-Speakers-PNG-Transparent-Image.png",
+      "item_num":"82354",
+      "image": "https://www.pngmart.com/files/6/Computer-Speakers-PNG-Transparent-Image.png",
       "price": 8,
-      "onhand": 16
-    },
-    {
+      "onhand":16
+    },{
       "id": 8,
       "item_name": "Hair Dryer",
-      "item_num": "92511",
-      "image": "http://www.pngmart.com/files/7/Hair-Dryer-PNG-Photos.png",
+      "item_num":"92511",
+      "image": "https://www.pngmart.com/files/7/Hair-Dryer-PNG-Photos.png",
       "price": 8,
-      "onhand": 16
-    },
-    {
+      "onhand":16
+    },{
       "id": 9,
       "item_name": "Computer Monitor",
-      "item_num": "79932",
-      "image": "http://www.pngmart.com/files/6/Monitor-Background-PNG.png",
+      "item_num":"79932",
+      "image": "https://www.pngmart.com/files/6/Monitor-Background-PNG.png",
       "price": 8,
-      "onhand": 16
-    },
-    {
+      "onhand":16
+    },{
       "id": 10,
       "item_name": "Air Fryer",
-      "item_num": "229112",
-      "image": "http://www.pngmart.com/files/15/Air-Fryer-PNG-HD.png",
+      "item_num":"229112",
+      "image": "https://www.pngmart.com/files/15/Air-Fryer-PNG-HD.png",
       "price": 8,
-      "onhand": 16
+      "onhand":16
     }
   ]
 }
